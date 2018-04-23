@@ -9,7 +9,7 @@ body {
 	background-image: url(../img/burger1.jpg);
 	background-size: cover;
 	background-position: top;
-	font-family: 'Pompiere', cursive;
+	font-family: 'Montserrat', sans-serif;
 	font-size: 150%;
 }
 
@@ -21,7 +21,7 @@ body {
 
 h2 {
 	color: #000000;
-	font-family: 'Pompiere', cursive;
+	font-family: 'Montserrat', sans-serif;
 	font-size: 150%;
 }
 .list-group-item-warning {
@@ -38,23 +38,10 @@ h2 {
 	margin-left: 80px;
 	margin-top: 10px;
 	color: #000000;
-	background-color: rgba(150, 204, 0, 0.8);
+	background-color: rgba(230, 235, 217, 0.8);
 	border-color: #000000;
 	width:70%
 }
-
-@media (min-width: 1200px) {
-    .container {
-      width: 990px;
-    }
-  }
-  
-  @media (min-width: 992px) {
-    .container {
-      width: 990px;
-    }
-  }
-  
 .eatIt {
 	position: absolute;
 	top: 7px;
