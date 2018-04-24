@@ -8,7 +8,7 @@ if (process.env.NODE_ENV === "production") {
   connection = mysql.createConnection({
     host: "localhost",
     user: "root",
-    password: "Nikeo369*",
+    password: "Itsmine2",
     database: "burgers_db"
   });
 }
