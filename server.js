@@ -27,7 +27,7 @@ app.use(bodyParser.json({ type: "application/vnd.api+json" }));
 app.use(express.static(__dirname + "/public"));
 
 //require burgers-controller,js for the routes
-var routes = require("./controllers/burgers-controller.js");
+var routes = require("./controllers/burgers_controller.js");
 
 app.use("/", routes);
 app.use("/:id", routes);
