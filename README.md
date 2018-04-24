@@ -1,10 +1,7 @@
 # Burger - Node Express Handlebars
 Check out the app running on heroku here: 
 
-
-
-Check out the video
-
+https://et-ta-burger.herokuapp.com/
 
 
 ### Overview
